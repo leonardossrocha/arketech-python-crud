@@ -26,6 +26,13 @@ git clone [https://github.com/SEU_USUARIO/arketech-python-crud.git](https://gith
 cd arketech-python-crud
 ```
 
-### Nota
+### Nota de Transparência e IA
 
-Projeto criado com auxílio de IA para uso pedagógico em curso Técnico de IA. 
+Este projeto foi estruturado e codificado com o auxílio de ferramentas de Inteligência Artificial Generativa. A IA atuou como um parceiro de desenvolvimento (Pair Programmer) na otimização da sintaxe Python, na formatação da saída de ecrã via f-strings e na consolidação das lógicas de tratamento de exceções (blocos try/except) que garantem a segurança e a estabilidade da aplicação em ambiente de produção.
+
+
+#### Autor
+
+Prof. Me. Leonardo Rocha - [Linkedin](https://www.linkedin.com/in/leonardossrocha/)  
+Mestre e Doutorando em Ciência da Computação
+
